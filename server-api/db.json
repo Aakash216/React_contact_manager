@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "913186f3-b1e9-43b8-838d-f3aecd5fee85",
+      "name": "Aakash",
+      "email": "singhaakash0901@gmail.com"
+    },
+    {
+      "id": "caa92ea4-655d-49b5-a63e-633769385232",
+      "name": "Aakash",
+      "email": "naman@gmail.com"
+    },
+    {
+      "id": "ffc794c6-a9a9-4ba2-88bf-9629910534dd",
+      "name": "Aakash",
+      "email": "aakash@gmail.com"
+    },
+    {
+      "id": "b18efd98-7d35-4cf4-a8dd-20499044d773",
+      "name": "Kittu",
+      "email": "kittu@gmail.com"
+    },
+    {
+      "id": "77eb2e73-34f5-41a7-8a9e-8251fa681484",
+      "name": "Aakash singh",
+      "email": "aakash@gmail.com"
+    }
+  ]
+}
